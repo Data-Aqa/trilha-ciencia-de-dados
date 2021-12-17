@@ -1,5 +1,7 @@
 # Aulas
 Repositório com os materiais utilizados nas aulas.
+## Módulos
+1. Python Básico para ciência de dados;
 
 ## Atenção!
 Devido à formatação utilizada no texto, algumas palavras não são exibidas diretamente. Existem alguns jeitos de contornar isso:
