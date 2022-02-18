@@ -2,6 +2,9 @@
 Repositório com os materiais utilizados nas aulas.
 ## Módulos
 1. Python Básico para ciência de dados;
+2. Manipulação de Dados com Pandas;
+3. Visualização de Dados com Matplotlib;
+4. Estatística
 
 ## Atenção!
 Devido à formatação utilizada no texto, algumas palavras não são exibidas diretamente. Existem alguns jeitos de contornar isso:
