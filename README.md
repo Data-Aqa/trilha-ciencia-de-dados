@@ -6,6 +6,8 @@ Repositório com os materiais utilizados nas aulas.
 3. Visualização de Dados com Matplotlib;
 4. Estatística
 
+<br>
+
 ## Atenção!
 Devido à formatação utilizada no texto, algumas palavras não são exibidas diretamente. Existem alguns jeitos de contornar isso:
 ### 1. nbviewer 
