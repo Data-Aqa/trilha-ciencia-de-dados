@@ -4,6 +4,7 @@
 
 <br>
 
+<br>
 
 Este repositório contém os materiais utilizados nas aulas da Data.Aqa 👨‍💻. Cada pasta representa um módulo do curso pelo qual os alunos passam. Aqui no GitHub, deixamos disponibilizados os notebooks destas aulas, bem como os dados utilizados. 
 
@@ -14,6 +15,9 @@ Para replicar o conteúdo vistos nas aulas você pode baixar os dados e as image
 <br>
 
 ## Módulos
+
+<br>
+
 1. Python Básico para ciência de dados;
 2. Manipulação de Dados com Pandas;
 3. Visualização de Dados com Matplotlib;
@@ -22,17 +26,26 @@ Para replicar o conteúdo vistos nas aulas você pode baixar os dados e as image
 <br>
 
 ## Atenção!
+
+<br>
+
 Devido à formatação utilizada no texto, algumas palavras não são exibidas diretamente. Existem alguns jeitos de contornar isso:
 
 <br>
 
 ### 1. nbviewer 
+
+<br>
+
 nbviewer é um site que permite visualizar arquivos .ipynb (arquivos das aulas) com formatação feita em HTML. Basta acessar https://nbviewer.org/, copiar e colar o link da página que deseja visualizar e pronto. 
 Sua vantagem é a praticidade, porém o arquivo é apenas para visualização.
 
 <br>
 
 ### 2. Google Colaboratory
+
+<br>
+
 O Google Colaboratory, ou só Colab, é um ambiente feito pela Google que permite rodar arquivos .ipynb diretamente do navegador. Para utiliza-lo, porém, você precisa baixar o arquivo da aula no seu computador. Depois, basta acessar https://colab.research.google.com/ e fazer o upload do arquivo.
 
 <br>
