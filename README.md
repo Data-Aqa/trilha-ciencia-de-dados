@@ -1,6 +1,6 @@
 <br>
 
-# <font color = #21618C> Aulas
+# Aulas
 
 <br>
 
