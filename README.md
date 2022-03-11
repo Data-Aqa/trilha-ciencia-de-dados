@@ -42,7 +42,7 @@ Sua vantagem é a praticidade, porém o arquivo é apenas para visualização.
 
 <br>
 
-### 2. Google Colaboratory ![image](https://user-images.githubusercontent.com/69936708/157929152-ef1af522-888e-4779-a026-cc1daf6d48e0.png)
+### 2. Google Colaboratory 
 
 <br>
 
