@@ -1,7 +1,10 @@
 # Aulas
-Este repositório contém os materiais utilizados nas aulas da Data.Aqa 👨‍💻. Cada pasta representa um módulo do curso pelo qual os alunos passam. Aqui no GitHub, deixamos disponibilizados os notebooks destas aulas, bem como os dados utilizados. Para replicar o conteúdo vistos nas aulas você pode baixar os dados e as imagens propostas para as aulas. No caso dos arquivos de Datasets, temos uma limitação de 25 mb para uploads, quando os arquivos não estiverem disponíveis no GitHub, deixaremos um link para o download dos mesmos na guia de "Referências", que ficam no final de cada um dos notebooks. 
+Este repositório contém os materiais utilizados nas aulas da Data.Aqa 👨‍💻. Cada pasta representa um módulo do curso pelo qual os alunos passam. Aqui no GitHub, deixamos disponibilizados os notebooks destas aulas, bem como os dados utilizados. 
+<br>
+Para replicar o conteúdo vistos nas aulas você pode baixar os dados e as imagens propostas para as aulas. O GitHub tem uma limitação de 25 MB para uploads dentro da plataforma, quando isso acontecer, deixaremos um link para o download dos arquivos na guia de "Referências" que ficam ao final de cada um dos notebooks. 
 
 <br>
+
 ## Módulos
 1. Python Básico para ciência de dados;
 2. Manipulação de Dados com Pandas;
