@@ -33,7 +33,7 @@ Devido à formatação utilizada no texto, algumas palavras não são exibidas d
 
 <br>
 
-### 1. nbviewer <img src = "https://nbviewer.org/static/img/nav_logo.svg" width = 80 >
+### 1. nbviewer <pre> <img src = "https://nbviewer.org/static/img/nav_logo.svg" width = 80 > </pre>
 <br>
 
 nbviewer é um site que permite visualizar arquivos .ipynb (arquivos das aulas) com formatação feita em HTML. Basta acessar https://nbviewer.org/, copiar e colar o link da página que deseja visualizar e pronto. 
