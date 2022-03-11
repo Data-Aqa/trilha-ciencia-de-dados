@@ -6,7 +6,7 @@
 
 <br>
 
-Este repositório contém os materiais utilizados nas aulas da Data.Aqa 👨‍💻. Cada pasta representa um módulo do curso pelo qual os alunos passam. Aqui no GitHub, deixamos disponibilizados os notebooks destas aulas, bem como os dados utilizados. 
+Este repositório contém os materiais apresentados nas aulas da Data.Aqa 👨‍💻. Cada pasta representa um módulo do curso pelo qual os alunos passam. Aqui no GitHub, deixamos disponibilizados os notebooks destas aulas, bem como os dados utilizados. 
 
 <br>
 
