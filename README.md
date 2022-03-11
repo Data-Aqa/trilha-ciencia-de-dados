@@ -42,7 +42,7 @@ Sua vantagem é a praticidade, porém o arquivo é apenas para visualização.
 
 <br>
 
-### 2. Google Colaboratory
+### 2. Google Colaboratory ![image](https://user-images.githubusercontent.com/69936708/157929152-ef1af522-888e-4779-a026-cc1daf6d48e0.png)
 
 <br>
 
@@ -50,7 +50,10 @@ O Google Colaboratory, ou só Colab, é um ambiente feito pela Google que permit
 
 <br>
 
-### 3. Jupyter Notebook
+### 3. Jupyter Notebook 
+
+<br>
+
 Jupyter Notebook é o programa utilizado para ler arquivos .ipynb, o formato dos arquivos usados nas aulas. Apesar de ser o programa "oficial" dos arquivos .ipynb, deixamos o jupyter por último porque ele requer a instalação de outros programas. Caso queira utilizar o jupyter, é preciso instalar o Anaconda ou o miniconda.
 <br>
 
