@@ -10,7 +10,7 @@ Este repositório contém os materiais apresentados nas aulas da Data.Aqa 👨�
 
 <br>
 
-Para replicar o conteúdo vistos nas aulas você pode baixar os dados e as imagens propostas. O GitHub possui uma limitação de 25 MB para uploads dentro da plataforma, quando isso acontecer, deixaremos um link para o download dos arquivos na guia de "Referências", que ficam ao final de cada um dos notebooks. 
+Para replicar o conteúdo vistos nas aulas você pode baixar os dados e as imagens propostas, que estão subdividos ao longo das pastas do repositório. O GitHub possui uma limitação de 25 MB para uploads dentro da plataforma, quando isso acontecer, deixaremos um link para o download dos arquivos na guia de "Referências", que fica ao final de cada um dos notebooks. 
 
 <br>
 
