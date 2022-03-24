@@ -53,7 +53,7 @@ O Google Colaboratory, ou só Colab, é um ambiente feito pela Google que permit
 
 <br>
 
-Jupyter Notebook é o programa utilizado para ler arquivos .ipynb, o formato dos arquivos usados nas aulas. Apesar de ser o programa "oficial" dos arquivos .ipynb, deixamos o jupyter por último porque ele requer a instalação de outros programas. Caso queira utilizar o jupyter, é preciso instalar o Anaconda ou o miniconda.
+Jupyter Notebook é o programa utilizado para ler arquivos .ipynb, formato utilizado nas aulas. Apesar de ser o programa "oficial" dos arquivos .ipynb, deixamos o jupyter por último porque ele requer um processo de instalação mais extenso. Caso queira utilizar o jupyter, é preciso instalar o Anaconda ou o miniconda.
 <br>
 
 **Links para download:**
