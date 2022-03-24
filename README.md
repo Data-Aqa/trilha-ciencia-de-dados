@@ -29,7 +29,7 @@ Para replicar o conteúdo vistos nas aulas você pode baixar os dados e as image
 
 <br>
 
-Devido à formatação utilizada no texto, algumas palavras não são exibidas diretamente. Existem alguns jeitos de contornar isso:
+Devido à formatação utilizada no texto, pode ser que algumas palavras não sejam exibidas diretamente. Existem alguns jeitos de contornar isso:
 
 <br>
 
