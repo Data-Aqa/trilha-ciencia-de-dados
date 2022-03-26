@@ -10,7 +10,7 @@ Este repositório contém os materiais apresentados nas aulas da Data.Aqa 👨�
 
 <br>
 
-Para replicar o conteúdo vistos nas aulas você pode baixar os dados e as imagens propostas para as aulas. O GitHub tem uma limitação de 25 MB para uploads dentro da plataforma, quando isso acontecer, deixaremos um link para o download dos arquivos na guia de "Referências", que ficam ao final de cada um dos notebooks. 
+Para replicar o conteúdo vistos nas aulas você pode baixar os dados e as imagens propostas, que estão subdividos ao longo das pastas do repositório. O GitHub possui uma limitação de 25 MB para uploads dentro da plataforma, quando isso acontecer, deixaremos um link para o download dos arquivos na guia de "Referências", que fica ao final de cada um dos notebooks. 
 
 <br>
 
@@ -29,7 +29,7 @@ Para replicar o conteúdo vistos nas aulas você pode baixar os dados e as image
 
 <br>
 
-Devido à formatação utilizada no texto, algumas palavras não são exibidas diretamente. Existem alguns jeitos de contornar isso:
+Devido à formatação utilizada no texto, pode ser que algumas palavras não sejam exibidas diretamente. Existem alguns jeitos de contornar isso:
 
 <br>
 
@@ -53,7 +53,7 @@ O Google Colaboratory, ou só Colab, é um ambiente feito pela Google que permit
 
 <br>
 
-Jupyter Notebook é o programa utilizado para ler arquivos .ipynb, o formato dos arquivos usados nas aulas. Apesar de ser o programa "oficial" dos arquivos .ipynb, deixamos o jupyter por último porque ele requer a instalação de outros programas. Caso queira utilizar o jupyter, é preciso instalar o Anaconda ou o miniconda.
+Jupyter Notebook é o programa utilizado para ler arquivos .ipynb, formato utilizado nas aulas. Apesar de ser o programa "oficial" dos arquivos .ipynb, deixamos o jupyter por último porque ele requer um processo de instalação mais extenso. Caso queira utilizar o jupyter, é preciso instalar o Anaconda ou o miniconda.
 <br>
 
 **Links para download:**
