@@ -36,7 +36,7 @@ Devido à formatação utilizada no texto, pode ser que algumas palavras não se
 ### 1. nbviewer 
 <br>
 
-nbviewer é um site que permite visualizar arquivos .ipynb (arquivos das aulas) com formatação feita em HTML. Basta acessar [aqui](https://nbviewer.org/github/Data-Aqa/aulas/tree/main/) e se direcionar à pasta do tema que deseja visualizar, clicar na aula e pronto. 
+nbviewer é um site que permite visualizar arquivos .ipynb (arquivos das aulas) com formatação feita em HTML. Basta acessar **[aqui](https://nbviewer.org/github/Data-Aqa/aulas/tree/main/)** e se direcionar à pasta do tema que deseja visualizar, clicar na aula e pronto. 
 Sua vantagem é a praticidade, porém o arquivo é apenas para visualização.
 
 <br>
