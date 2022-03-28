@@ -1,4 +1,4 @@
-#  Distribuições de Probabilidade 
+# 📈 Distribuições de Probabilidade 
 
 <br>
 
