@@ -7,4 +7,4 @@ Este repositório contém aulas introduzindo conceitos básicos do Python. São 
 
 <br>
 
-Você pode visualizar as aulas [aqui](https://nbviewer.org/github/Data-Aqa/aulas/tree/main/python-basico/)
+Você pode visualizar as aulas **[aqui.](https://nbviewer.org/github/Data-Aqa/aulas/tree/main/python-basico/)**
