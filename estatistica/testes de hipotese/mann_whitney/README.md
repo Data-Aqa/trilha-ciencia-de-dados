@@ -7,4 +7,4 @@ O teste é utilizado para verificar se há diferença estatística entre amostra
 
 <br> 
 
-O notebook da aula pode ser visualizado **[aqui](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/estatistica/testes%20de%20hipotese/mann_whitney/Mann-Whitney.ipynb)** 
+O notebook da aula pode ser visualizado **[aqui.](https://nbviewer.org/github/Data-Aqa/aulas/blob/main/estatistica/testes%20de%20hipotese/mann_whitney/Mann-Whitney.ipynb)** 
