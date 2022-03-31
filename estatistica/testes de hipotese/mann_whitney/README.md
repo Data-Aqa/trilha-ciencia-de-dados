@@ -2,7 +2,7 @@
 
 <br>
 
-Este folder contém a a aula do Teste U de Mann-Whitney (também conhecido como Wilcoxon Soma de Ranking ).
+Este folder contém a aula do Teste U de Mann-Whitney (também conhecido como Wilcoxon Soma de Ranking ).
 O teste é utilizado para verificar se há diferença estatística entre amostras independentes. Em um dos exercícios propostos na aula, por exemplo, é verificado se há diferença entre o uso de um Placebo em comparação a um tratamento real em pacientes. 
 
 <br> 
