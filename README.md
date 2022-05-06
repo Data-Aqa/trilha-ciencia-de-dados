@@ -22,6 +22,7 @@ Para replicar o conteúdo vistos nas aulas você pode baixar os dados e as image
 2. Manipulação de Dados com Pandas;
 3. Visualização de Dados com Matplotlib;
 4. Estatística
+5. Machine Learning
 
 <br>
 
