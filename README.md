@@ -18,11 +18,11 @@ Para replicar o conteúdo vistos nas aulas você pode baixar os dados e as image
 
 <br>
 
-1. Python Básico para ciência de dados;
-2. Manipulação de Dados com Pandas;
-3. Visualização de Dados com Matplotlib;
-4. Estatística
-5. Machine Learning
+1. [Python Básico para ciência de dados](https://nbviewer.org/github/Data-Aqa/aulas/tree/main/python-basico/);
+2. [Manipulação de Dados com Pandas](https://nbviewer.org/github/Data-Aqa/aulas/tree/main/manipulacao/);
+3. [Visualização de Dados com Matplotlib](https://nbviewer.org/github/Data-Aqa/aulas/tree/main/visualizacao/);
+4. [Estatística](https://nbviewer.org/github/Data-Aqa/aulas/tree/main/estatistica/)
+5. [Machine Learning](https://nbviewer.org/github/Data-Aqa/aulas/tree/main/machine%20learning/)
 
 <br>
 
